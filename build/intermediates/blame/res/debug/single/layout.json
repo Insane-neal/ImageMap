@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynic_history.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_dynic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\history_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\location_delay.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\location_delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\special_message.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\special_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsva_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\pingsva_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\cities_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\cities_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\jingdu_result.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\jingdu_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dynic_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\dynic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\horizontal_list_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\prru_image.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\prru_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_bubble.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\push_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\message_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\message_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide01_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\guide01_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ping.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_ping.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\push_message_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pop_up_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\pop_up_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prru_info_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_prru_info_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_history_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_apply.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\dialog_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_touch.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\view_touch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\country_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\country_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_apply.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\dialog_apply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_general_setting.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\player_land.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\player_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_high_set_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_high_set_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\command_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\command_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\prru_image.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\prru_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dynic_history.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\dynic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\highset_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\highset_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\history_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsvalist_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\pingsvalist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\popup.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_delay.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_location_delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dynic_history.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\dynic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_start.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\view_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\vipseller.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\vipseller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_start.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\view_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\jingdu_result.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\jingdu_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\positive_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\positive_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\market_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\market_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text_aci.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\edit_text_aci.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ping.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_ping.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\popupview.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\popupview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\msg_pager.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\msg_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\image_center.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\image_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_config.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\push_message_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide02_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\guide02_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\special_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\special_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\show_market.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\show_market.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\aci_text.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\aci_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\popupview.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\popupview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\show_result.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\show_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\vipseller.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\vipseller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\msg_pager.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\msg_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\message_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\message_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_touch.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\view_touch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\location_delay.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\location_delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\player_land.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\player_land.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide03_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\guide03_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_high_set_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_high_set_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\aci_text.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\aci_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\player_port.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\player_port.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsva_choose.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\pingsva_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\command_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\command_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_this_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_this_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide03_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\guide03_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\cities_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\cities_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prru_info_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_prru_info_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_test.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\push_message_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_end.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\view_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\horizontal_list_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\show_market.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\show_market.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dynic_history.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_dynic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\special_message.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\special_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_config.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\push_message_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\market_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\market_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_delay.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_location_delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\image_map_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\image_map_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsvalist_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\pingsvalist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\country_layout.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\country_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsva_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\pingsva_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide02_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\guide02_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\dynic_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\dynic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\image_map_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\image_map_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\guide01_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\guide01_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pingsva_choose.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\pingsva_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_bubble.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\push_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_test.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\push_message_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\special_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\layout\\special_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_str.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_wifi_str.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text_aci.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\edit_text_aci.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\player_port.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\player_port.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\positive_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\positive_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_general_setting.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\activity_general_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\image_center.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\image_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\pop_up_view.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\pop_up_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\push_message_shape.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\push_message_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\view_end.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\view_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\highset_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\highset_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_history_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_item.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\layout\\navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_this_acitivity.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_this_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\show_result.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\show_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi_str.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\layout\\activity_wifi_str.xml"
+    }
+]

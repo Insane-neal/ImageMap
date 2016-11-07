@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in2.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\anim\\push_bottom_in2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\scale_trans.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\anim\\scale_trans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\scale_trans2.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\anim\\scale_trans2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\reverse.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\anim\\reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\reverse.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\exploded-aar\\ImageMap\\ACTIVITY_ENTRY_NAME\\unspecified\\res\\anim\\reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in2.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\anim\\push_bottom_in2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\scale_trans.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\anim\\scale_trans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\build\\intermediates\\res\\merged\\debug\\anim\\scale_trans2.xml",
+        "source": "C:\\Users\\Zheng\\Documents\\GitHub\\Android\\ImageMap\\res\\anim\\scale_trans2.xml"
+    }
+]

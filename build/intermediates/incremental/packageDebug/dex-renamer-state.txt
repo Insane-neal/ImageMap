@@ -1,0 +1,7 @@
+#Mon Nov 07 14:47:31 CST 2016
+base.0=C\:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cfc04403fa01bd4cced4fd6ea0e3726f7babff97
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06009996abb8e1d9d0793102cf0cda96992f9f92\\classes.dex
+base.1=C\:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06009996abb8e1d9d0793102cf0cda96992f9f92
+file.0=C\:\\Users\\Zheng\\Documents\\GitHub\\ImageMap\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cfc04403fa01bd4cced4fd6ea0e3726f7babff97\\classes.dex

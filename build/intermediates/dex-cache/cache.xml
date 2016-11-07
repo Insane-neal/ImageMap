@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\exploded-aar\ImageMap\ACTIVITY_ENTRY_NAME\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5c729c4dbce023d96b12f3de27686a4c4614923">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_40ddd7e37c612cac989a81de1e10c442369b3e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="888893c58addb1596854a081ffe362212d91391b">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cfc04403fa01bd4cced4fd6ea0e3726f7babff97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\libs\androidsvg-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b8e2b5de0473fdac58cbfb4bc1ef751b09125c4">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\androidsvg-1.2.0_c6f000616ead83ab5b47b43d4f9b562206331cd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\volley_5c5be39dc7da9be0983a60a3823e3be79151c435\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_6e4203bc6c9592495a9fc911396ded669b303b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_353c77d51c75650f00897f5749afea3c4399e4de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="52bcf1e8129f881c3be58786c9842401f8beb06a">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06009996abb8e1d9d0793102cf0cda96992f9f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\exploded-aar\ImageMap\ACTIVITY_ENTRY_NAME\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5c729c4dbce023d96b12f3de27686a4c4614923">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_3eb2b3d5d3fd2177cbcb0f41387a707bf0dde8cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\libs\androidsvg-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b8e2b5de0473fdac58cbfb4bc1ef751b09125c4">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\androidsvg-1.2.0_a3654e5ff13cf0dc8f82112d31c4e2e203d30b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\exploded-aar\ImageMap\ACTIVITY_ENTRY_NAME\unspecified\jars\libs\androidsvg-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a51a3180dc2f77de44fffd00967e7e4d9b2ba804">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\8\androidsvg-1.2.0_f869f00210d659db22822e34a31a295e4760448a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0f8773e70f1dec739860182c8bc4d933dce6a837">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5bf63f444d3df33a1b68d48dd508f1b245fe62b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ab537aff369e3326798914b95095295ad8378092">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c8351b141ca53d30f2b2354975596dae241bcc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\libs\json-lib-2.2.3-jdk13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ce2b7413e0165789fb979532563617ab53e4a11c">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\json-lib-2.2.3-jdk13_69e4ebd9f0f4191f21a0afc2deb9b0c8a6c64986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\volley_5e6474ff3b7fe5d3277f2648fb487490a3eb8cf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\libs\json-lib-2.2.3-jdk13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ce2b7413e0165789fb979532563617ab53e4a11c">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\Android\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\2\json-lib-2.2.3-jdk13_4bb04c0432f3ce8df84317959c22a91e454f9fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\exploded-aar\ImageMap\ACTIVITY_ENTRY_NAME\unspecified\jars\libs\androidsvg-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a51a3180dc2f77de44fffd00967e7e4d9b2ba804">
+        <dex dex="C:\Users\Zheng\Documents\GitHub\ImageMap\build\intermediates\transforms\dex\debug\folders\1000\8\androidsvg-1.2.0_cb2576d6593b7d18274e98a246cbf0ddb17dac2c\classes.dex" />
+    </item>
+
+</items>
